@@ -2,4 +2,4 @@
 My 90 Days Journey through Data Structures and Algorithms
 
 
-Day 1:
+Day 1: GFG Introduction
